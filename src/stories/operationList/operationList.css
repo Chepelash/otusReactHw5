@@ -1,0 +1,14 @@
+.smallBox {
+  width: fit-content;
+  height: 200px;
+  overflow-y: scroll;
+  border-color: black;
+  border: solid;
+  list-style-type: none;
+  padding: 0;
+}
+
+.liEntry {
+  border-bottom: 1px solid;
+  padding-left: 8px;
+}
